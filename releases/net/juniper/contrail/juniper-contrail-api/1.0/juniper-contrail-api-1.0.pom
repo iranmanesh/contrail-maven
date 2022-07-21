@@ -10,11 +10,11 @@
   <distributionManagement>
     <repository>
       <id>repo</id>
-      <url>https://github.com/Juniper/contrail-maven/raw/gh-pages/releases</url>
+      <url>https://gitlab.com/iranmanesh/contrail-maven/-/tree/gh-pages/releases</url>
     </repository>
     <snapshotRepository>
       <id>snapshot-repo</id>
-      <url>https://github.com/Juniper/contrail-maven/raw/gh-pages/snapshots</url>
+      <url>https://gitlab.com/iranmanesh/contrail-maven/-/tree/gh-pages/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
   <dependencies>
